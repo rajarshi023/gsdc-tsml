@@ -7,7 +7,7 @@ thank you to gdsc tsml to helping our to make this project
 ```
 git clone https://github.com/rajarshi023/gsdc-tsml.git 
 ```
-#### Now , time to install Android studio : read this documentaion to download android studio <br/>
+#### Now , It's time to install Android studio : read this documentaion to download android studio <br/>
 ```
 https://developer.android.com/
 ```
