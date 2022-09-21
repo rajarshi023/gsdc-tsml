@@ -1,5 +1,9 @@
+<p align ="left"> 
+<img src = "dev.png" width = 120px>
+
 # Quiz application 
 In recent days technology has made a huge impact on education culture . Our team's main motto is how to practice concepts whatever they learn from institutions . so we make our Android application Quizer . Through this application they gain different knowledge and also will be obtained by their performance.
+<br/>
 
 thank you to gdsc tsml to helping our to make this project
 
